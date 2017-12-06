@@ -10,10 +10,4 @@ Camera Effects
 
 This is my Camera Effects Project.
 
-![Danville is the bomb](Robert_rose_Danville_is_the_bomb.PNG?raw=true "Optional Title")
 
-![Stars among the pros](?raw=true "Optional Title")
-
-![Merry Christmas](?raw=true "Optional Title")
-
-![No Mater The Weather](?raw=true "Optional Title")
